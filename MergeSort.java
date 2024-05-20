@@ -33,6 +33,7 @@ public class MergeSort {
             } else {
                 entries[k] = aux[i++];
             }
+            
         }
     }
 }
